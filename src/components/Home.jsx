@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
-
+import Aiptdocket from '../../public/assets/img/hero/aiptdocket.png'
+import Aiptpatent from '../../public/assets/img/hero/Aiptpatent.png'
 class Home extends Component {
     render() {
         return (
@@ -47,7 +48,7 @@ class Home extends Component {
                     </div>
                     <div class="col-lg-5 offset-lg-1">
                         <div class="about-caption2">
-                        <a href="index.html"><img src="assets/img/hero/aiptdocket.png" alt="" /></a>
+                        <a href="index.html"><img src={Aiptdocket} alt="" /></a>
                         </div>
                     </div>
                 </div>
@@ -58,7 +59,7 @@ class Home extends Component {
             <div class="container">
                 <div class="row ">
                     <div class="col-lg-5">
-                        <a href="index.html"><img src="assets/img/hero/Aiptpatent.png" alt="" /></a>
+                        <a href="index.html"><img src={Aiptpatent} alt="" /></a>
                     </div>
                     <div class="col-lg-5 offset-lg-1">
                         <div class="about-caption2">
