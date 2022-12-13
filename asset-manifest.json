@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/alminanaeilerbutad/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/alminanaeilerbutad/static/js/main.1465c053.chunk.js",
+    "main.js.map": "/alminanaeilerbutad/static/js/main.1465c053.chunk.js.map",
+    "runtime-main.js": "/alminanaeilerbutad/static/js/runtime-main.cbf11a7e.js",
+    "runtime-main.js.map": "/alminanaeilerbutad/static/js/runtime-main.cbf11a7e.js.map",
+    "static/js/2.dfb515e1.chunk.js": "/alminanaeilerbutad/static/js/2.dfb515e1.chunk.js",
+    "static/js/2.dfb515e1.chunk.js.map": "/alminanaeilerbutad/static/js/2.dfb515e1.chunk.js.map",
+    "static/js/3.91790b56.chunk.js": "/alminanaeilerbutad/static/js/3.91790b56.chunk.js",
+    "static/js/3.91790b56.chunk.js.map": "/alminanaeilerbutad/static/js/3.91790b56.chunk.js.map",
+    "index.html": "/alminanaeilerbutad/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/alminanaeilerbutad/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.dfb515e1.chunk.js.LICENSE.txt": "/alminanaeilerbutad/static/js/2.dfb515e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbf11a7e.js",
+    "static/js/2.dfb515e1.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.1465c053.chunk.js"
+  ]
+}
